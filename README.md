@@ -77,7 +77,7 @@ The app uses `src/storage/config.json` for settings:
 
 ## Spiritual Content
 
-Currently includes 8 thoughts from **Vachanamrut** (Swaminarayan scripture):
+Currently includes 8 thoughts from **Behanshree na Vachanamrut** (Digambar Jain Scripture):
 - Original text in Gujarati
 - English translations
 - Source references
